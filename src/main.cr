@@ -1,2 +1,2 @@
-require "./gui/*"
+require "./core/*"
 require "./cli"

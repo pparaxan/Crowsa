@@ -1,0 +1,10 @@
+version: 2.0
+shards:
+  crymagick:
+    git: https://github.com/imdrasil/crymagick.git
+    version: 0.2.3
+
+  hyaline:
+    git: https://codeberg.org/XDR/Hyaline
+    version: 0.2.3+git.commit.5d556b6b803749308ca56ee275825b76610fc366
+

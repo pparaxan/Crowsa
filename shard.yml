@@ -1,5 +1,5 @@
 name: crowsa
-version: 0.0.3
+version: 0.1.0
 description: A lightweight and more secure alternative to Electron.
 authors:
   - Jaydon 'XDR' Nelson <xxdr@duck.com>
@@ -7,9 +7,8 @@ license: MIT
 crystal: '>= 1.13.0'
 
 dependencies:
-  webview:
-    github: naqvis/webview
-    version: 0.2.3
+  hyaline:
+    git: https://codeberg.org/XDR/Hyaline
   crymagick:
     github: imdrasil/crymagick
     version: 0.2.3
