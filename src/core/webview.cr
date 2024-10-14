@@ -22,8 +22,7 @@ class WebviewRunner
                    true
                  {% end %}
 
-    webview = Webview.window(width, height, Webview::SizeHints::NONE, app_name, "data:text/html;base64,#{encoded_html_content}", debug = debug_mode)
-    webview.run
-    webview.destroy
+    hyaline = Webview.window(width, height, Webview::SizeHints::NONE, app_name, "data:text/html;base64,#{encoded_html_content}", debug = debug_mode)
+    hyaline.run
   end
 end
