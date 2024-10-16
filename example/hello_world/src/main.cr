@@ -4,8 +4,6 @@ require "crowsa/cli"
 require "./css"
 require "./javascript"
 
-Crowsa::CLI.new.arguments
-
 class App
   include Blueprint::HTML
 
