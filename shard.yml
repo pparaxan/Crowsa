@@ -1,5 +1,5 @@
 name: crowsa
-version: 0.2.0
+version: 1.0.0
 description: A lightweight and more secure alternative to Electron.
 authors:
   - Jaydon 'XDR' Nelson <xxdr@duck.com>
@@ -14,6 +14,8 @@ dependencies:
     version: 0.2.3
   kemal:
     github: kemalcr/kemal
+  sentry:
+    git: https://codeberg.org/XDR/Sentry
 
 targets:
   core:
