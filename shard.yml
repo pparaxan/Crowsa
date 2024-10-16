@@ -1,5 +1,5 @@
 name: crowsa
-version: 0.1.0
+version: 0.2.0
 description: A lightweight and more secure alternative to Electron.
 authors:
   - Jaydon 'XDR' Nelson <xxdr@duck.com>
@@ -12,6 +12,8 @@ dependencies:
   crymagick:
     github: imdrasil/crymagick
     version: 0.2.3
+  kemal:
+    github: kemalcr/kemal
 
 targets:
   core:
