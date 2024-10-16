@@ -1,11 +1,11 @@
 {
   "main": {
-    "name": "Crowsa Example 1: Hello World",
+    "name": "Crowsa Example 1 - Hello World",
     "target": "example_1",
     "width": 800,
     "height": 600
   },
   "package": {
-    "icon": "./thecat.jpg"
+    "icon": "./crowsa.jpg"
   }
 }
