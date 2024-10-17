@@ -19,5 +19,5 @@ dependencies:
     git: https://codeberg.org/XDR/Sentry
 
 targets:
-  core:
-    main: src/main.cr
+  crowsa:
+    main: src/crowsa.cr
