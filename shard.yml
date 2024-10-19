@@ -1,6 +1,7 @@
 name: crowsa
-version: 0.1.0
+version: 1.0.0
 description: A lightweight and more secure alternative to Electron.
+repository: https://codeberg.org/XDR/Crowsa
 authors:
   - Jaydon 'XDR' Nelson <xxdr@duck.com>
 license: MIT
@@ -14,5 +15,5 @@ dependencies:
     version: 0.2.3
 
 targets:
-  core:
-    main: src/main.cr
+  crowsa:
+    main: src/crowsa.cr

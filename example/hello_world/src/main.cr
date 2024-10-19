@@ -1,6 +1,5 @@
 require "blueprint/html"
-require "crowsa/core/main"
-require "crowsa/cli"
+require "crowsa"
 require "./css"
 require "./javascript"
 

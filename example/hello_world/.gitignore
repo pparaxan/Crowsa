@@ -1,2 +1,4 @@
 bin/
 lib/
+shard.lock
+# ^ Don't put this line in your actual project
