@@ -11,17 +11,8 @@
 <p align="center">This project is currently a work in progress.</p>
 
 ## What's Crowsa?
-Crowsa is a little framework that lets you write ~~cross-platform (desktop)~~ Windows applications using [JavaScript](https://simple.wikipedia.org/wiki/JavaScript), [HTML](https://simple.wikipedia.org/wiki/HTML) and [CSS](https://simple.wikipedia.org/wiki/Cascading_Style_Sheets).
+Crowsa is a little framework for building tiny binary applications for Windows. Leveraging the power of [Hyaline](https://codeberg.org/XDR/Hyaline), Crowsa utilizes the system webview to render the application.
 
 ## Getting Started
 
-If you're interested in creating a Crowsa app, please read the [documentation](https://xdrwastaken.github.io/crowsa-docs).
-
-### Installation
-Add this to your application's `shard.yml`:
-
-```yml
-dependencies:
-  discordrpcry:
-    git: https://codeberg.org/XDR/Crowsa
-```
+If you're interested in creating a Crowsa application, visit [Crowsa's documentation](https://xdr.codeberg.page/@Crowsa).
